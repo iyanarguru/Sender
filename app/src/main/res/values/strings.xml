@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sender</string>
+    <string name="entert_the_serial_number_here">Entert the Serial Number Here</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="enter_device_id_here">Enter Device Id Here</string>
+    <string name="device_id">Device ID</string>
+    <string name="add_device">ADD DEVICE</string>
+    <string name="no_device_added_yet">No Device Added Yet</string>
+    <string name="device_id_with_space">Device Id  :  </string>
+    <string name="serial_number_with_space">Serial Number :</string>
+</resources>
